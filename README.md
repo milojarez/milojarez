@@ -1,10 +1,48 @@
-- 👋 Hi, I’m @milojarez
-- 👀 I’m interested in Movies, Indie Games, Devops
-- 🌱 I’m currently learning C#, Blazor, Godot
-- 💞️ I’m looking to collaborate on C# projects
-- 📫 How to contact me?, At https://twitter.com/milojarez
+# 👋 Hola, soy Camilo Jaramillo
 
-<!---
-milojarez/milojarez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Infraestructura • Automatización • Energía • DevOps • Videojuegos • Colombia**
+
+---
+
+## Sobre mí
+
+Soy ingeniero de sistemas con experiencia en infraestructura, contenedorización y automatización. Me apasiona aprender sobre nuevas tecnologías como IA, energías renovables y blockchain. Me interesa participar más en proyectos open source y disfruto compartir y promover estas herramientas con otros.
+
+---
+
+## Experiencia
+
+- Implementación de soluciones con Docker, Linux y automatización de procesos.
+- Administración y optimización de bases de datos (Oracle, PostgreSQL, SQL Server).
+- Configuración de servicios como Nginx, Passbolt y n8n.
+- Siempre buscando mejorar la eficiencia, seguridad y sostenibilidad tecnológica.
+
+---
+
+## Intereses
+
+- Videojuegos (desde la generación del NES, he probado todas las consolas principales).
+- Desarrollo de videojuegos y exploración de nuevas mecánicas y sistemas interactivos.
+- Aprender sobre arte, dibujo y música en el contexto del desarrollo de juegos.
+- Difundir tecnologías de automatización, IA y energía sostenible.
+- Promover y compartir proyectos open source para crecer en comunidad.
+
+---
+
+## Stack y Herramientas
+
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu%2022.04-ff5631?logo=linux)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
+![Nginx](https://img.shields.io/badge/Nginx-green?logo=nginx)
+![Python](https://img.shields.io/badge/Python-3776ab?logo=python)
+![n8n](https://img.shields.io/badge/n8n-ff6538?logo=n8n)
+![Passbolt](https://img.shields.io/badge/Passbolt-5a86f0?logo=passbolt)
+
+---
+
+- Cali, Colombia
+
+---
+
+> _“Nunca se deja de aprender, y lo mejor es compartir y crear en comunidad.”_
