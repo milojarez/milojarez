@@ -38,7 +38,7 @@ Soy ingeniero de sistemas con experiencia en infraestructura, contenedorización
 ![Python](https://img.shields.io/badge/Python-3776ab?logo=python)
 ![n8n](https://img.shields.io/badge/n8n-ff6538?logo=n8n)
 ![Passbolt](https://img.shields.io/badge/Passbolt-5a86f0?logo=passbolt)
-
+![Godot Engine](https://img.shields.io/badge/Godot-478cbf?logo=godot-engine)
 ---
 
 - Cali, Colombia
